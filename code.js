@@ -11,3 +11,4 @@ const grid = (row, col, ball) => {
 };
 
 console.log(grid(1, 2));
+console.log(grid(1, 2));
